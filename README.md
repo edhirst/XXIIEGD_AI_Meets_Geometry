@@ -8,14 +8,14 @@ No prior background in differential geometry or machine learning is assumed.
 
 | Notebook | Topic |
 |----------|-------|
-| `lecture_2.ipynb` | Learning Willmore-minimising maps for the Clifford torus |
+| `lecture_3.ipynb` | Learning Willmore-minimising maps for the Clifford torus |
 
 ## Getting Started
 
 See [`environment/README.md`](environment/README.md) for setup instructions, then open
-`lecture_2.ipynb` in JupyterLab or VS Code.
+`lecture_3.ipynb` in JupyterLab or VS Code.
 
-## Lecture 2 Background
+## Lecture 3 Background
 
 Developed from the paper
 [*Minimising Willmore Energy via Neural Flow*](https://arxiv.org/abs/2604.04321)
