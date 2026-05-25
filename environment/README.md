@@ -8,10 +8,10 @@
 
 ```bash
 # Create a fresh Python 3.10 environment
-conda create -n willmore-lectures python=3.10 -y
+conda create -n ai-meets-geo-workshop python=3.10 -y
 
 # Activate it
-conda activate willmore-lectures
+conda activate ai-meets-geo-workshop
 
 # Install PyTorch (CPU build — sufficient for the notebooks)
 conda install pytorch cpuonly -c pytorch -y
@@ -28,7 +28,7 @@ conda install jupyterlab -y
 From the repository root:
 
 ```bash
-conda activate willmore-lectures
+conda activate ai-meets-geo-workshop
 jupyter lab
 ```
 
