@@ -16,8 +16,8 @@ conda activate ai-meets-geo-workshop
 # Install PyTorch (CPU build — sufficient for the notebooks)
 conda install pytorch cpuonly -c pytorch -y
 
-# Install the remaining dependencies
-pip install -r requirements.txt
+# Install the remaining dependencies (use python -m pip to ensure the correct env)
+python -m pip install -r requirements.txt
 
 # Install JupyterLab so you can open the notebooks
 conda install jupyterlab -y

@@ -1,9 +1,6 @@
-# Willmore Energy via Neural Flow — Lecture Notebooks
+# AI Meets Geometry — Lecture Notebooks
 
-Introductory Jupyter notebooks for the **XXII EGD School** (Piauí, Brazil 2026),
-accompanying the paper
-[*Minimising Willmore Energy via Neural Flow*](https://arxiv.org/abs/2604.04321)
-by E. Hirst, H. N. Sá Earp, and T. S. R. Silva.
+Introductory Jupyter notebooks for the **XXII EGD School** (Piauí, Brazil 2026).  
 
 No prior background in differential geometry or machine learning is assumed.
 
@@ -18,7 +15,11 @@ No prior background in differential geometry or machine learning is assumed.
 See [`environment/README.md`](environment/README.md) for setup instructions, then open
 `lecture_2.ipynb` in JupyterLab or VS Code.
 
-## Background
+## Lecture 2 Background
+
+Developed from the paper
+[*Minimising Willmore Energy via Neural Flow*](https://arxiv.org/abs/2604.04321)
+by E. Hirst, H. N. Sá Earp, and T. S. R. Silva.
 
 The **Willmore energy** of a smooth surface $\varphi : \Sigma \to \mathbb{R}^3$ is
 
