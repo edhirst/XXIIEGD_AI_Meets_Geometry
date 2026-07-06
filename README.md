@@ -11,6 +11,7 @@ No prior background in differential geometry or machine learning is assumed.
 | `Lecture_2/lecture_2-part-I.ipynb` | Rediscovering Euler's formula with a single neuron |
 | `Lecture_2/lecture_2-part-II.ipynb` | Learning a Ricci-flat Calabi–Yau metric (supervised) |
 | `Lecture_3/lecture_3.ipynb` | Learning Willmore-minimising maps for the Clifford torus |
+| `Lecture_4/lecture_4-part-I.ipynb` | Finding geodesics by search with the cross-entropy method |
 
 ## Getting Started
 
@@ -62,25 +63,26 @@ $$W \geq 2\pi^2,$$
 achieved uniquely by the **Clifford torus**. The notebooks demonstrate how a small
 Physics-Informed Neural Network (PINN) can discover this minimum by gradient descent.
 
+## Lecture 4 Background
+
+Where Lecture 2 was **supervised**, Lecture 4 turns to **reinforcement learning (RL)**: no labels — an
+agent builds an object step by step and is graded by a **reward**.
+
+**Part I — Finding geodesics by search.** The most geometric first example is a **geodesic**. Finding
+the shortest path between two points is turned into a search problem (build a path node by node, reward
+$=$ minus its length) and solved with the **cross-entropy method** — sample paths, keep the shortest,
+refit, repeat — then sharpened with a few steps of gradient descent. The loop is validated on the round
+sphere $S^2$ against the closed form $\ell \to \arccos\langle p,q\rangle$, then run unchanged on a
+triaxial **ellipsoid**, where geodesics have no elementary formula, and certified through the geodesic
+equation $\nabla_{\gamma'}\gamma' \approx 0$. It closes with a small **neural policy trained by policy
+gradient**, bridging to PPO in Part II. Running theme: *AI proposes candidates; rigorous methods
+dispose.*
+
 ## Citation
 
 If you use this material, please cite:
 
 ```bibtex
-@article{Heyes2026,
-  title = {Neural and numerical methods for G2-structures on contact Calabi–Yau 7–manifolds},
-  volume = {878},
-  ISSN = {0370-2693},
-  url = {http://dx.doi.org/10.1016/j.physletb.2026.140566},
-  DOI = {10.1016/j.physletb.2026.140566},
-  journal = {Physics Letters B},
-  publisher = {Elsevier BV},
-  author = {Heyes,  Elli and Hirst,  Edward and Sá Earp,  Henrique N. and Silva,  Tomás S.R.},
-  year = {2026},
-  month = July,
-  pages = {140566}
-}
-
 @article{Hirst:2026qwi,
     author       = "Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
     title        = "{Minimising Willmore Energy via Neural Flow}",
