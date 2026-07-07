@@ -84,24 +84,32 @@ If you use this material, please cite:
 
 ```bibtex
 @article{Heyes:2026rch,
-    author = "Heyes, Elli and Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
-    title = "{Neural and numerical methods for G2-structures on contact Calabi{\textendash}Yau 7{\textendash}manifolds}",
-    eprint = "2602.12438",
-    archivePrefix = "arXiv",
-    primaryClass = "math.DG",
-    doi = "10.1016/j.physletb.2026.140566",
-    journal = "Phys. Lett. B",
-    volume = "878",
-    pages = "140566",
-    year = "2026"
+    author         = "Heyes, Elli and Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
+    title          = "{Neural and numerical methods for G2-structures on contact Calabi{\textendash}Yau 7{\textendash}manifolds}",
+    eprint         = "2602.12438",
+    archivePrefix  = "arXiv",
+    primaryClass   = "math.DG",
+    doi            = "10.1016/j.physletb.2026.140566",
+    journal        = "Phys. Lett. B",
+    volume         = "878",
+    pages          = "140566",
+    year           = "2026"
 }
 @article{Hirst:2026qwi,
-    author       = "Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
-    title        = "{Minimising Willmore Energy via Neural Flow}",
-    eprint       = "2604.04321",
+    author        = "Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
+    title         = "{Minimising Willmore Energy via Neural Flow}",
+    eprint        = "2604.04321",
     archivePrefix = "arXiv",
-    primaryClass = "math.DG",
-    year         = "2026"
+    primaryClass  = "math.DG",
+    year          = "2026"
+}
+@article{Silva:2026scr,
+    author        = "Tom{\'a}s S. R. Silva",
+    title         = "{A semicontinuous relaxation of Saito's criterion and freeness as angular minimization}", 
+    eprint        = "2604.02995",
+    archivePrefix = "arXiv",
+    primaryClass  = "math.AG",
+    year          = "2026"
 }
 ```
 
