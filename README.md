@@ -1,3 +1,5 @@
+<p><strong><a href="https://mybinder.org/v2/gh/edhirst/XXIIEGD_AI_Meets_Geometry/HEAD" target="_blank" rel="noopener noreferrer">🚀 Launch the lecture notebooks in Binder</a></strong></p>
+
 ![cover](./cover.jpg)
 # AI Meets Geometry — Lecture Notebooks
 
