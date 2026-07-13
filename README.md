@@ -1,3 +1,4 @@
+![cover](./cover.jpg)
 # AI Meets Geometry — Lecture Notebooks
 
 Introductory Jupyter notebooks for the **XXII EGD School** (Piauí, Brazil 2026).  
@@ -36,7 +37,7 @@ and the setup scales up to 4-polytopes to recover the general **Euler–Poincar�
 **Part II — Learning a Ricci-flat Calabi–Yau metric.** The same four-step recipe is applied to a
 genuinely hard object: the Ricci-flat Kähler metric on the **Fermat quintic** threefold
 
-$$Q = \{[z_0:\dots:z_4]\in\mathbb{P}^4 \ :\ \textstyle\sum_{i=0}^4 z_i^5 = 0\}.$$
+$$Q = \{ [z_0:\dots:z_4]\in\mathbb{P}^4 \ :\ \textstyle\sum_{i=0}^4 z_i^5 = 0 \}.$$
 
 Yau's theorem guarantees such a metric exists and is unique in each Kähler class, but gives no
 formula. An expensive *teacher* produces ground-truth metrics via **Donaldson's balanced-metric
