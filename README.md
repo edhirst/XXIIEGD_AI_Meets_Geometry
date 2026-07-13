@@ -1,4 +1,9 @@
-<p><strong><a href="https://mybinder.org/v2/gh/edhirst/XXIIEGD_AI_Meets_Geometry/HEAD" target="_blank" rel="noopener noreferrer">🚀 Launch the lecture notebooks in Binder</a></strong></p>
+| Lecture | Notebook | Open in Colab |
+|---|---|---|
+| Lecture 2 | Part I | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_2/lecture_2-part-I.ipynb) |
+| Lecture 2 | Part II | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_2/lecture_2-part-II.ipynb) |
+| Lecture 3 | Full notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_3/lecture_3.ipynb) |
+| Lecture 4 | Part I | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_4/lecture_4-part-I.ipynb) |
 
 ![cover](./cover.jpg)
 # AI Meets Geometry — Lecture Notebooks
