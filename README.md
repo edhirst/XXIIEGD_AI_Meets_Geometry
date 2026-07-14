@@ -1,9 +1,54 @@
-| Lecture | Notebook | Open in Colab |
-|---|---|---|
-| Lecture 2 | Part I | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_2/lecture_2-part-I.ipynb) |
-| Lecture 2 | Part II | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_2/lecture_2-part-II.ipynb) |
-| Lecture 3 | Full notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_3/lecture_3.ipynb) |
-| Lecture 4 | Part I | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_4/lecture_4-part-I.ipynb) |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Lecture</th>
+      <th>Notebook</th>
+      <th>Open in Colab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lecture 2</td>
+      <td>Part I</td>
+      <td>
+        <a href="https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_2/lecture_2-part-I.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Lecture 2</td>
+      <td>Part II</td>
+      <td>
+        <a href="https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_2/lecture_2-part-II.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Lecture 3</td>
+      <td>Full notebook</td>
+      <td>
+        <a href="https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_3/lecture_3.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Lecture 4</td>
+      <td>Part I</td>
+      <td>
+        <a href="https://colab.research.google.com/github/edhirst/XXIIEGD_AI_Meets_Geometry/blob/main/Lecture_4/lecture_4-part-I.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ![cover](./cover.jpg)
 # AI Meets Geometry — Lecture Notebooks
