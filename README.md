@@ -168,4 +168,4 @@ If you use this material, please cite:
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT license — see [LICENSE](LICENSE).
