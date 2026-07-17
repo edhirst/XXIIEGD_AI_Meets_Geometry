@@ -138,6 +138,20 @@ dispose.*
 If you use this material, please cite:
 
 ```bibtex
+@article{Aggarwal2024,
+  title = {Machine learning Sasakian and G2 topology on contact Calabi-Yau 7-manifolds},
+  volume = {850},
+  ISSN = {0370-2693},
+  url = {http://dx.doi.org/10.1016/j.physletb.2024.138517},
+  DOI = {10.1016/j.physletb.2024.138517},
+  journal = {Physics Letters B},
+  publisher = {Elsevier BV},
+  author = {Aggarwal,  Daattavya and He,  Yang-Hui and Heyes,  Elli and Hirst,  Edward and Sá Earp,  Henrique N. and Silva,  Tomás S.R.},
+  year = {2024},
+  month = Mar,
+  pages = {138517}
+}
+
 @article{Heyes:2026rch,
     author         = "Heyes, Elli and Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
     title          = "{Neural and numerical methods for G2-structures on contact Calabi{\textendash}Yau 7{\textendash}manifolds}",
