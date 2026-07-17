@@ -164,20 +164,20 @@ If you use this material, please cite:
     year           = "2026"
 }
 @article{Hirst:2026qwi,
-    author        = "Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
-    title         = "{Minimising Willmore Energy via Neural Flow}",
-    eprint        = "2604.04321",
-    archivePrefix = "arXiv",
-    primaryClass  = "math.DG",
-    year          = "2026"
+    author         = "Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
+    title          = "{Minimising Willmore Energy via Neural Flow}",
+    eprint         = "2604.04321",
+    archivePrefix  = "arXiv",
+    primaryClass   = "math.DG",
+    year           = "2026"
 }
 @article{Silva:2026scr,
-    author        = "Tom{\'a}s S. R. Silva",
-    title         = "{A semicontinuous relaxation of Saito's criterion and freeness as angular minimization}", 
-    eprint        = "2604.02995",
-    archivePrefix = "arXiv",
-    primaryClass  = "math.AG",
-    year          = "2026"
+    author         = "Tom{\'a}s S. R. Silva",
+    title          = "{A semicontinuous relaxation of Saito's criterion and freeness as angular minimization}", 
+    eprint         = "2604.02995",
+    archivePrefix  = "arXiv",
+    primaryClass   = "math.AG",
+    year           = "2026"
 }
 ```
 
