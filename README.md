@@ -153,7 +153,7 @@ If you use this material, please cite:
 }
 @article{Heyes:2026rch,
     author         = "Heyes, Elli and Hirst, Edward and Earp, Henrique N. S{\'a} and Silva, Tom{\'a}s S. R.",
-    title          = "{Neural and numerical methods for G2-structures on contact Calabi{\textendash}Yau 7{\textendash}manifolds}",
+    title          = "{Neural and numerical methods for G2-structures on contact Calabi-Yau 7-manifolds}",
     eprint         = "2602.12438",
     archivePrefix  = "arXiv",
     primaryClass   = "math.DG",
